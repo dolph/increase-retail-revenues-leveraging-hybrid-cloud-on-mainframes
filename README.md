@@ -24,7 +24,7 @@ App users can add or ignore recommendations, can enter free form items, and can 
 ![alt text](images/bbox-vsl-arch.png "Architecture")
 ![alt text](images/vsl060.png "Architecture")
 
-## Scenarios
+## Scenarios 
 
 **Part one:** Use the API Connect Developer Portal to test the **GET /customerHistory** operation.  This operation retrieves customer purchase history.  It will be used in Part two of this journey.   
 
